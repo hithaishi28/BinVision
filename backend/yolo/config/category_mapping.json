@@ -1,0 +1,5 @@
+{
+  "Recyclable": ["Plastic", "Glass", "Metal", "Paper", "Cardboard"],
+  "Organic": ["Food waste", "Vegetable", "Fruit"],
+  "Hazardous": ["Battery", "Aerosol", "Electronics", "Chemicals"]
+}

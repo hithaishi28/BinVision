@@ -1,0 +1,12 @@
+{
+  "status": "success",
+  "total_objects_detected": 1,
+  "detections": [
+    {
+      "detected_item": "Recyclable",
+      "target_group": "Recyclable",
+      "confidence": 0.88,
+      "bbox": [120.5, 45.2, 340.1, 280.0]
+    }
+  ]
+}
